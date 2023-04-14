@@ -4,4 +4,4 @@ function descendingOrder(num) {
     let arr = str.split("");
     return Number(arr.sort((a, b) => b - a).join(""));
 
-}
+} 
