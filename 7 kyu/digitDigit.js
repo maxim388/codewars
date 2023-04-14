@@ -5,4 +5,4 @@ function squareDigits(num) {
         arr[i] = Math.pow(Number(arr[i]), 2);
     }
     return Number(arr.join(""));
-}
+} 
