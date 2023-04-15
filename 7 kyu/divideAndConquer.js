@@ -8,4 +8,4 @@ function divCon(arr) {
         }
     }
     return sum;
-}
+} 
