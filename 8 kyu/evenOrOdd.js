@@ -4,4 +4,4 @@ function evenOrOdd(number) {
     } else {
         return "Even"
     }
-}
+} 

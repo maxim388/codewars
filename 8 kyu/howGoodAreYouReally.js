@@ -5,4 +5,4 @@ function betterThanAverage(classPoints, yourPoints) {
     }
     sum += yourPoints;
     return yourPoints > sum/(classPoints.length + 1);
-}
+} 
