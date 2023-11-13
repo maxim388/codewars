@@ -1,0 +1,1 @@
+const doubleInteger = (int) => 2 * int;
