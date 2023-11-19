@@ -1,3 +1,0 @@
-function highAndLow(numbers) {
-  // ...
-}
